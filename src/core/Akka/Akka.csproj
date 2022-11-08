@@ -30,7 +30,7 @@
 
   <ItemGroup Condition="'$(TargetFramework)' == '$(NetLibVersion)'">
       <PackageReference Include="System.Configuration.ConfigurationManager">
-          <Version>4.7.0</Version>
+          <Version>7.0.0</Version>
       </PackageReference>
   </ItemGroup>
 
